@@ -1,0 +1,29 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
